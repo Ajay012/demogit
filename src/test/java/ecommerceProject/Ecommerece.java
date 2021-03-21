@@ -89,7 +89,7 @@ public class Ecommerece extends BaseClass {
 	}
 	public static double getAmount(String value)
 	{
-	
+		
 	value= value.substring(1);
 	double amount= Double.parseDouble(value);
 	return amount;
