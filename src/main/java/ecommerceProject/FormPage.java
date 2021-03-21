@@ -42,6 +42,9 @@ public class FormPage {
 	public WebElement letsShop(){
 		
 		System.out.println("LetsShop");
+		System.out.println("LetsShop1");
+		System.out.println("LetsShop2");
+		
 		return shop;
 		}
 	
